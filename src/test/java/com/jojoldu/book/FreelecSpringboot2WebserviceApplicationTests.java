@@ -1,4 +1,4 @@
-package com.jojoldu.book.freelecspringboot2webservice;
+package com.jojoldu.book;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
